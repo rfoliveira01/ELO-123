@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 oi rodriguinhoooooooooooooo
 
 
 eieeeeeeeeeeeeee
+=======
+fdgfdgf
+>>>>>>> 0cd7e17e0fd1bd771038da8fcab58b937ce39a1c
